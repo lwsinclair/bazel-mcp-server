@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nacgarg-bazel-mcp-server-badge.png)](https://mseep.ai/app/nacgarg-bazel-mcp-server)
+
 # Bazel MCP Server
 
 A local MCP server that exposes functionality of the [Bazel](https://bazel.build/) build system to MCP-enabled AI agents.
